@@ -31,8 +31,8 @@
 
 * `jobs` muestra los procesos actuales de la sesión.
 * `Ctrl/Cmd + Z` para suspender un proceso.
-* bg %[número_job] reanuda el proceso en segundo plano (background).
-* fg %[número_job] trae el proceso al frente (foreground).
+* `bg %[número_job]` reanuda el proceso en segundo plano (background).
+* `fg %[número_job]` trae el proceso al frente (foreground).
 
 
 > [!TIP]

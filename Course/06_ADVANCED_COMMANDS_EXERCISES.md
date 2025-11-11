@@ -16,7 +16,7 @@
 
 1. Busca una palabra en un archivo.
 
-1. Cuenta la líneas de una archivo.
+1. Cuenta las líneas de un archivo.
 
 1. Redirige una salida y guárdala en un archivo.
 

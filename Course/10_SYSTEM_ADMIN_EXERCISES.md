@@ -6,9 +6,9 @@
 
 ## Ejercicios
 
-1. Crea una archivo y visualiza sus permisos.
+1. Crea un archivo y visualiza sus permisos.
 
-1. Otorga permisos de ejecución solo al propietario en modo simbólico.
+1. Otorga permisos de ejecución sólo al propietario en modo simbólico.
 
 1. Cambia sus permisos a 644.
 

@@ -24,10 +24,10 @@ Formato en el que están escritos los archivos con los apuntes del curso.
 
 ## ¿Por qué Bash?
 
-* Es el estándar Unix/Linux/macOS (aunque en las últimas versiones de macOS es zsh, una evolución de Bash)
+* Es el estándar Unix/Linux/macOS (aunque en las últimas versiones de macOS es zsh, una evolución de Bash).
 * La gran mayoría de scripts y sistemas de administración de servidores están escritos en Bash.
-* Gran portabilidad
-* Más documentación y comunidad
+* Gran portabilidad.
+* Más documentación y comunidad.
 
 ## Bash en Windows
 

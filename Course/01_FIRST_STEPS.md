@@ -51,7 +51,7 @@ cd TAB
 
 ## Ruta absoluta y relativa
 
-La ruta **relativa** hace referencia al directorio actual (`pwd`). No empieza por `/` y es más corta y práctica cuando sabes donde estás.
+La ruta **relativa** hace referencia al directorio actual (`pwd`). No empieza por `/` y es más corta y práctica cuando sabes dónde estás.
 
 La ruta **absoluta** indica la ubicación completa de un archivo o directorio en el sistema de archivos del operativo. Siempre empieza por `/` para representar la raíz del sistema y no depende de dónde estés en ese momento.
 

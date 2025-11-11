@@ -64,7 +64,7 @@ Puedes definir variables temporalmente (locales) o que existan en todo momento (
 
 ### Variable local
 
-Las variables locales solo viven en la sesión actual.
+Las variables locales sólo viven en la sesión actual.
 
 * `nombre_variable="valor asociado a la variable"` Almacena el valor de un texto en una variable.
 * `echo $nombre_variable ` Muestra el valor de la variable.

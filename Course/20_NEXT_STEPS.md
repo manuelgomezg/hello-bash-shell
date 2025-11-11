@@ -6,7 +6,7 @@
 
 ## ZSH
 
-Zsh (Z Shell) es un intérprete de comandos moderno y potente que evoluciona a Bash (y soporta todos su comandos).
+Zsh (Z Shell) es un intérprete de comandos moderno y potente que evoluciona a Bash (y soporta todos sus comandos).
 
 * [Instalación](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 

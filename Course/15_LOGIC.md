@@ -286,7 +286,7 @@ echo $?
 ## Variables globales y locales (ámbito)
 
 * Variables **globales**: visibles en todo el script.
-* Variables **locales**: visibles solo dentro de la función (local).
+* Variables **locales**: visibles sólo dentro de la función (local).
 
 ```
 name=Brais # global
@@ -300,7 +300,7 @@ my_function_2
 
 * `local` → para definir variables locales.
 * `echo "Hola $msj $name"` → puede acceder a las 2 variables desde su ámbito.
-* `echo "Hola desde fuera $msj"` → no puede acceder a la variable local fueral del ámbito de la función.
+* `echo "Hola desde fuera $msj"` → no puede acceder a la variable local fuera del ámbito de la función.
 
 > [!CAUTION] 
 >  
