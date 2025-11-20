@@ -2,8 +2,6 @@
 
 # 10 - ADMINISTRACIÓN DEL SISTEMA (EJERCICIOS)
 
-[Vídeo Clase 3 [30/07/2025]](https://www.twitch.tv/videos/2527141423)
-
 ## Ejercicios
 
 1. Crea un archivo y visualiza sus permisos.

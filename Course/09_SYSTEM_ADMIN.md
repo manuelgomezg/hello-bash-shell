@@ -2,8 +2,6 @@
 
 # 9 - ADMINISTRACIÓN DEL SISTEMA
 
-[Vídeo Clase 3 [30/07/2025]](https://www.twitch.tv/videos/2527141423)
-
 > [!NOTE]  
 > 
 > En Unix/Linux, cada archivo o directorio tiene permisos para controlar quién puede **leer**, **escribir** o **ejecutarlo**.

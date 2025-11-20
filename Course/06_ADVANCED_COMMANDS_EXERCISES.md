@@ -2,8 +2,6 @@
 
 # 6 - COMANDOS AVANZADOS (EJERCICIOS)
 
-[Vídeo Clase 3 [30/07/2025]](https://www.twitch.tv/videos/2527141423)
-
 ## Ejercicios
 
 1. Muestra todo el contenido de un archivo.

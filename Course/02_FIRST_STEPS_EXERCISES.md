@@ -2,8 +2,6 @@
 
 # 2 - PRIMEROS PASOS (EJERCICIOS)
 
-[Vídeo Clase 2 [23/07/2025]](https://www.twitch.tv/videos/2520958017)
-
 ## Ejercicios
 
 1. En la terminal, muestra el directorio en el que estás ahora.

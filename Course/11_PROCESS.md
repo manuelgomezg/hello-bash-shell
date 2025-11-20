@@ -2,8 +2,6 @@
 
 # 11 - PROCESOS Y ALIAS
 
-[Vídeo Clase 3 [30/07/2025]](https://www.twitch.tv/videos/2527141423)
-
 ## Monitorización
 
 * `ps` muestra los procesos asociados a la terminal actual

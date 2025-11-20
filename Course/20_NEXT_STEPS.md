@@ -2,8 +2,6 @@
 
 # 20 - PRÓXIMOS PASOS
 
-[Vídeo Clase 5 [14/08/2025]](https://www.twitch.tv/videos/2540505212)
-
 ## ZSH
 
 Zsh (Z Shell) es un intérprete de comandos moderno y potente que evoluciona a Bash (y soporta todos sus comandos).

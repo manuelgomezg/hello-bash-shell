@@ -2,8 +2,6 @@
 
 # 1 - PRIMEROS PASOS
 
-[Vídeo Clase 1 [16/07/2025]](https://www.twitch.tv/videos/2514962453)
-
 ## Hola mundo
 
 Primer comando en Bash: `echo` imprime texto en pantalla.

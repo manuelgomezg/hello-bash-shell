@@ -2,8 +2,6 @@
 
 # 4 - GESTIÓN DE ARCHIVOS (EJERCICIOS)
 
-[Vídeo Clase 2 [23/07/2025]](https://www.twitch.tv/videos/2520958017)
-
 ## Ejercicios
 
 1. Crea un directorio.

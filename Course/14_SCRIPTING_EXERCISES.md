@@ -2,8 +2,6 @@
 
 # 14 - SCRIPTING (EJERCICIOS)
 
-[Vídeo Clase 4 [06/08/2025]](https://www.twitch.tv/videos/2534287084)
-
 ## Ejercicios
 
 1. Crea un script que imprima en pantalla: Hola mundo desde Bash.

@@ -2,8 +2,6 @@
 
 # 19 - WARP
 
-[Vídeo Clase 5 [14/08/2025]](https://www.twitch.tv/videos/2540505212)
-
 ## Warp 2
 
 <a href="https://mouredev.link/warp"><img src="../Images/warp.jpg" style="height: 50%; width:50%;"/></a>

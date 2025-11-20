@@ -2,8 +2,6 @@
 
 # 5 - COMANDOS AVANZADOS
 
-[Vídeo Clase 2 [23/07/2025]](https://www.twitch.tv/videos/2520958017)
-
 ## Lectura de archivos
 
 * `cat` Muestra todo el contenido del archivo en pantalla (útil para archivos pequeños).

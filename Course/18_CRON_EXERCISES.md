@@ -2,8 +2,6 @@
 
 # 18 - CRON (EJERCICIOS)
 
-[Vídeo Clase 5 [14/08/2025]](https://www.twitch.tv/videos/2540505212)
-
 ## Ejercicios
 
 1. Crea un script que muestre la fecha y hora actual en un archivo. Programa su ejecución cada minuto con una cron.

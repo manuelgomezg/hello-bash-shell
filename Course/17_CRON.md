@@ -2,8 +2,6 @@
 
 # 17 - CRON
 
-[Vídeo Clase 5 [14/08/2025]](https://www.twitch.tv/videos/2540505212)
-
 ## Explorador de archivos
 
 Abre el explorador de archivos del sistema en la ruta en la que nos encontremos desde Bash.

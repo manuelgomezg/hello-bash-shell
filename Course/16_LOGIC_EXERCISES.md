@@ -2,8 +2,6 @@
 
 # 16 - LÓGICA (EJERCICIOS)
 
-[Vídeo Clase 4 [06/08/2025]](https://www.twitch.tv/videos/2534287084)
-
 ## Ejercicios
 
 1. Crea un script que pida un número y muestre si es positivo, negativo o cero usando if, elif y else.

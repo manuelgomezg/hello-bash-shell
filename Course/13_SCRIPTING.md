@@ -2,8 +2,6 @@
 
 # 13 - SCRIPTING
 
-[Vídeo Clase 4 [06/08/2025]](https://www.twitch.tv/videos/2534287084)
-
 ## Definición
 
 Un script es un archivo de texto que contiene comandos que la shell ejecutará secuencialmente para permitir así automatizar tareas repetitivas.

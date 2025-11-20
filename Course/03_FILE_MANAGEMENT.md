@@ -2,8 +2,6 @@
 
 # 3 - GESTIÓN DE ARCHIVOS
 
-[Vídeo Clase 2 [23/07/2025]](https://www.twitch.tv/videos/2520958017)
-
 ## Sistema de archivos Unix
 
 Los sistemas de archivos Unix están organizados por un único árbol jerárquico que empieza por `/`, llamado raíz.

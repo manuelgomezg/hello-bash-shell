@@ -2,8 +2,6 @@
 
 # 0 - CONFIGURACIÓN
 
-[Vídeo Clase 1 [16/07/2025]](https://www.twitch.tv/videos/2514962453)
-
 ## Sobre la sintaxis Markdown
 
 Formato en el que están escritos los archivos con los apuntes del curso.
