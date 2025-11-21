@@ -48,7 +48,7 @@ Cada `*` representa estas unidades de tiempo (de izquierda a derecha):
 > 
 > Ejecuta primero de manera manual el comando para comprobar que funciona y que tienes los permisos adecuados.
 
-> [! CAUTION]
+> [!CAUTION]
 > 
 > Si el comando a ejecutar es un script, utiliza su ruta absoluta.
 
