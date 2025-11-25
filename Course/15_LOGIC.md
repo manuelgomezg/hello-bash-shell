@@ -329,7 +329,7 @@ fi
 ### Atajos
 
 * `|| command` → ejecuta el comando si hay un error.
-* `$$ command` → ejecuta el comando si no hay un error.
+* `&& command` → ejecuta el comando si no hay un error.
 
 ```
 cp file.txt ../Course || echo "Otra vez se ha producido el error"
